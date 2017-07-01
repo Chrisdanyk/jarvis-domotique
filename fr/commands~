@@ -1,0 +1,5 @@
+*ALLUMES LA LAMPE*==say "$(jv_pg_domotique_allumes_led)"
+*ETEINS LA LAMPE*==say "$(jv_pg_domotique_eteins_led)"
+*allumes la cafetiere*==say "$(jv_pg_domotique_cafetiere_on)"
+*eteins la cafetiere*==say "$(jv_pg_domotique_cafetiere_off)"
+
